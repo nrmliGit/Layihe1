@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,500;1,500&display=swap');
+
+.block{
+    background-color:rgb(244, 241, 241);
+    width: 100%;
+    height: 255px;
+}
+.first{
+    color: rgb(68, 75, 75);
+    font-family: "Raleway", sans-serif;
+    width: 50%;
+    position: relative;
+    left: 25px;
+    top: 45px;
+    bottom: 60px;
+}
+h3{
+    font-weight: normal;
+}
+ p{
+    font-size: 12px;
+}
+.group{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.little{
+    width: 740px;
+    background-color: darkgray;
+    height: 20px;
+    text-align: center;
+}
+.second{
+    position: relative;
+    top: 40px;
+    bottom: 20px;
+}
+#div1{
+    background-color: rgb(83, 75, 75);
+    height: 20px;
+    width: 90%;
+    color: rgb(244, 241, 241);
+    font-size: 13px;
+   
+}
+#div2{
+    background-color: rgb(83, 75, 75);
+    height: 20px;
+    width: 85%;
+    color: rgb(244, 241, 241);
+    font-size: 13px;
+    
+}
+#div3{
+    background-color: rgb(83, 75, 75);
+    height: 20px;
+    width: 75%;
+    color: rgb(244, 241, 241);
+    font-size: 13px;
+    
+}
